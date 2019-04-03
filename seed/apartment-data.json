@@ -1,0 +1,158 @@
+[
+  {
+    "city": "Orem",
+    "name": "Courtside Apartments",
+    "address": "530 S 1200 W",
+    "phone": "801-221-1600"
+  },
+  {
+    "city": "Orem",
+    "name": "University Towers",
+    "address": "630 S 1200 W",
+    "phone": "801-682-4177"
+  },
+  {
+    "city": "Orem",
+    "name": "Summerwood Student Housing",
+    "address": "720 S 1200 W",
+    "phone": "801-802-0522"
+  },
+  {
+    "city": "Orem",
+    "name": "Promenade Place",
+    "address": "875 S Geneva Rd",
+    "phone": "801-900-5469"
+  },
+  {
+    "city": "Orem",
+    "name": "Wolverine Crossing",
+    "address": "1130 S 1270 W",
+    "phone": "801-431-0000"
+  },
+  {
+    "city": "Orem",
+    "name": "Village on the Parkway",
+    "address": "1230 S 1181 W",
+    "phone": "801-224-6005"
+  },
+  {
+    "city": "Orem",
+    "name": "Oakhurst Apartments",
+    "address": "1315 S 1110 W",
+    "phone": "801-434-8500"
+  },
+  {
+    "city": "Orem",
+    "name": "University Village Apartments",
+    "address": "1270 S Sandhill Rd",
+    "phone": "801-224-4411"
+  },
+  {
+    "city": "Orem",
+    "name": "University Gateway Student Housing",
+    "address": "1200 S 643 W",
+    "phone": "801-226-2225"
+  },
+  {
+    "city": "Orem",
+    "name": "Mountain Run Apartment Homes",
+    "address": "1219 S 620 W",
+    "phone": "801-224-1070"
+  },
+  {
+    "city": "Orem",
+    "name": "Canyon View Apartments",
+    "address": "1401 Sandhill Rd",
+    "phone": "801-224-6100"
+  },
+  {
+    "city": "Orem",
+    "name": "Ventana Student Housing",
+    "address": "1386 S 400 W",
+    "phone": "801-224-1205"
+  },
+  {
+    "city": "Orem",
+    "name": "LakeRidge Condominiums",
+    "address": "1444 S 430 W",
+    "phone": ""
+  },
+  {
+    "city": "Provo",
+    "name": "The Crestwood Apartments",
+    "address": "1800 N State St",
+    "phone": "801-356-8800"
+  },
+  {
+    "city": "Provo",
+    "name": "Carriage Cove Apartments",
+    "address": "606 W 1720 N",
+    "phone": "801-374-2700"
+  },
+  {
+    "city": "Provo",
+    "name": "The Branbury Apartments",
+    "address": "449 W 1720 N",
+    "phone": "801-331-5467"
+  },
+  {
+    "city": "Provo",
+    "name": "Alpine Village Apartments",
+    "address": "1378 Freedom Blvd",
+    "phone": "801-623-6093"
+  },
+  {
+    "city": "Provo",
+    "name": "The Lodges at Glenwood",
+    "address": "1565 N University Ave",
+    "phone": "801-374-9090"
+  },
+  {
+    "city": "Provo",
+    "name": "Raintree Commons",
+    "address": "1849 Freedom Blvd",
+    "phone": "801-377-1511"
+  },
+  {
+    "city": "Provo",
+    "name": "Liberty on Freedom",
+    "address": "865 N 160 W",
+    "phone": "801-373-9806"
+  },
+  {
+    "city": "Provo",
+    "name": "Omni Apartments",
+    "address": "701 N 500 W",
+    "phone": "801-427-0452"
+  },
+  {
+    "city": "Orem",
+    "name": "Parkway Lofts",
+    "address": "1000 S 1225 W",
+    "phone": "833-247-1317"
+  },
+  {
+    "city": "Provo",
+    "name": "Westwood Apartments",
+    "address": "519 W 940 N",
+    "phone": "358-325-0546"
+  },
+  {
+    "city": "Provo",
+    "name": "Grandview Manor",
+    "address": "1801 N 950 W",
+    "phone": "801-375-7647"
+  },
+  {
+    "city": "Vineyard",
+    "name": "The Alloy at Geneva",
+    "address": "100 S Geneva Rd",
+    "phone": "801-655-5600"
+  },
+  {
+    "city": "Vineyard",
+    "name": "Concord at Geneva",
+    "address": "125 Mill Rd",
+    "phone": "385-203-1000"
+  }
+]
