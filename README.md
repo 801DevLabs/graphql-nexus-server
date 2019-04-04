@@ -14,7 +14,7 @@ npm run start
 ```
 
 ## Queries
-Scroll to the bottom for complete queries and mutatuions list
+Scroll to the end for complete queries and mutatuions list
 ### Get all apartments
 
 ```
