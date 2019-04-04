@@ -16,7 +16,7 @@ npm run start
 ## Queries
 
 ### Get all apartments
-
+Scroll to the bottom for complete queries and mutatuions list
 ```
 query getApartments {
   apartments {
